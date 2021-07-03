@@ -1,0 +1,43 @@
+.sizing{
+	margin: 10px;
+	height: 40px;
+	width: 40px;
+	background-color:#c0c6c9;
+	border-radius: 50%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#navbar{ margin: 10px;
+ }
+
+.shirts{display: flex;
+		margin: 10px;
+}
+
+.a{background-color: black;
+		color: white;
+		position: absolute;
+		top: 0px;
+		right: 15px;
+		margin: 2px;
+		padding: 2px;
+		font-size: 10px;
+}
+
+.b{ background-color: black;
+	width: 180px;
+ }
+
+ .o {padding: 2px;}
+
+ .x {
+  background-color: #D4D4D2;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+}
